@@ -31,12 +31,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120812 <br/>
 https://www.acmicpc.net/problem/3046 <br/>
 2.옹알이 (1) <br/>
 https://school.programmers.co.kr/learn/courses/30/lessons/120956 <br/>
-3.11365 - !밀비 급일 <br/>
-https://www.acmicpc.net/problem/11365 <br/>
-4.A강조하기 <br/>
-https://school.programmers.co.kr/learn/courses/30/lessons/181874 <br/>
-5.문자열이 몇 번 등장하는지 세기 <br/>
-https://school.programmers.co.kr/learn/courses/30/lessons/181871 <br/>
 
 
 
