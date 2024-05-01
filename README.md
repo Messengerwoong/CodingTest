@@ -3,7 +3,7 @@
 Practice Coding Test
 
 ## 4월 28일 
-1.1998년생인 내가 태국에서는 2541년생?!
+1.1998년생인 내가 태국에서는 2541년생?!/n
 https://www.acmicpc.net/problem/18108
 2.문자와 문자열
 https://www.acmicpc.net/problem/27866
